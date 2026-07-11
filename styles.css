@@ -22,8 +22,7 @@
   --text-paper-dim: #5b6b8c;
 
   --font-display: 'Fraunces', Georgia, serif;
---font-body: 'Nunito', -apple-system, BlinkMacSystemFont, sans-serif;
---font-mono: 'Red Hat Mono', 'SFMono-Regular', Menlo, monospace;
+  --font-body: 'Montserrat', -apple-system, BlinkMacSystemFont, sans-serif;
 
   --radius-sm: 10px;
   --radius-md: 16px;
@@ -169,7 +168,7 @@ a.skip-link:focus {
   place-items: center;
   background: var(--marigold);
   color: var(--ink);
-  font-family: var(--font-mono);
+  font-family: var(--font-body);
   font-weight: 800;
   font-size: 17px;
   border-radius: 8px;
@@ -270,7 +269,7 @@ a.skip-link:focus {
   align-items: center;
 }
 .eyebrow {
-  font-family: var(--font-mono);
+  font-family: var(--font-body);
   font-size: 12.5px;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -372,7 +371,7 @@ a.skip-link:focus {
   flex-direction: column;
 }
 .hero-facts dt {
-  font-family: var(--font-mono);
+  font-family: var(--font-body);
   font-size: 26px;
   font-weight: 700;
   color: var(--text-ink);
@@ -399,7 +398,7 @@ a.skip-link:focus {
   border-radius: var(--radius-tile);
   background: var(--paper);
   color: var(--text-paper);
-  font-family: var(--font-mono);
+  font-family: var(--font-body);
   font-weight: 800;
   font-size: 24px;
   display: grid;
@@ -651,7 +650,7 @@ a.skip-link:focus {
   font-weight: 600;
 }
 .stat-value {
-  font-family: var(--font-mono);
+  font-family: var(--font-body);
   font-weight: 700;
   font-size: 18px;
   font-variant-numeric: tabular-nums;
@@ -665,7 +664,7 @@ a.skip-link:focus {
   gap: 12px;
 }
 .session-progress-label {
-  font-family: var(--font-mono);
+  font-family: var(--font-body);
   font-size: 12.5px;
   font-weight: 700;
   color: var(--text-paper-dim);
@@ -730,7 +729,7 @@ a.skip-link:focus {
   gap: 10px;
 }
 .category-tag {
-  font-family: var(--font-mono);
+  font-family: var(--font-body);
   font-size: 12.5px;
   font-weight: 600;
   color: var(--text-paper-dim);
@@ -751,7 +750,7 @@ a.skip-link:focus {
   display: inline-flex;
   align-items: center;
   gap: 5px;
-  font-family: var(--font-mono);
+  font-family: var(--font-body);
   font-size: 11.5px;
   font-weight: 600;
   color: var(--text-paper-dim);
@@ -828,7 +827,7 @@ a.skip-link:focus {
   border-radius: var(--radius-tile);
   background: var(--ink);
   color: var(--text-ink);
-  font-family: var(--font-mono);
+  font-family: var(--font-body);
   font-weight: 800;
   font-size: 19px;
   display: grid;
@@ -928,7 +927,7 @@ a.skip-link:focus {
   border-radius: var(--radius-tile);
   background: var(--ink);
   color: var(--text-ink);
-  font-family: var(--font-mono);
+  font-family: var(--font-body);
   font-weight: 800;
   font-size: 22px;
   border: none;
@@ -1119,7 +1118,7 @@ a.skip-link:focus {
   cursor: default;
 }
 .hint-cost {
-  font-family: var(--font-mono);
+  font-family: var(--font-body);
   font-size: 11.5px;
   color: var(--coral);
   font-weight: 700;
@@ -1166,7 +1165,7 @@ a.skip-link:focus {
   color: var(--text-paper-dim);
 }
 kbd {
-  font-family: var(--font-mono);
+  font-family: var(--font-body);
   background: var(--paper-dim);
   border: 1px solid var(--paper-line);
   border-radius: 5px;
@@ -1245,7 +1244,7 @@ kbd {
   align-items: center;
 }
 .session-end-stats span {
-  font-family: var(--font-mono);
+  font-family: var(--font-body);
   font-weight: 800;
   font-size: 26px;
   color: var(--ink);
@@ -1359,7 +1358,7 @@ kbd {
 }
 .stats-num {
   display: block;
-  font-family: var(--font-mono);
+  font-family: var(--font-body);
   font-weight: 800;
   font-size: 40px;
   color: var(--ink);

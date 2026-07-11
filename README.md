@@ -2,4 +2,4 @@
 
 A modern fun word unscrambler.
 
-**Live:** [scrambol.pages.dev](https://unscrambol.pages.dev/)
+**Live:** [unscrambol.pages.dev](https://unscrambol.pages.dev/)

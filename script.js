@@ -1713,8 +1713,8 @@
   const LIVES_START = 3;
   const HINT_PENALTY = 5;
   const CONFETTI_COLORS = ['#F5A524', '#2FBE8F', '#FF6B5E', '#FBF5E9'];
-  const STORAGE_STATS_KEY = 'Scrambly_stats_v2';
-  const STORAGE_SOUND_KEY = 'Scrambly_sound_v1';
+  const STORAGE_STATS_KEY = 'Unscrambol_stats_v2';
+  const STORAGE_SOUND_KEY = 'Unscrambol_sound_v1';
 
   /* ============================================================
      DOM refs

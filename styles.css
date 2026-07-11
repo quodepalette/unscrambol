@@ -22,8 +22,8 @@
   --text-paper-dim: #5b6b8c;
 
   --font-display: 'Fraunces', Georgia, serif;
-  --font-body: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
-  --font-mono: 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace;
+--font-body: 'Nunito', -apple-system, BlinkMacSystemFont, sans-serif;
+--font-mono: 'Red Hat Mono', 'SFMono-Regular', Menlo, monospace;
 
   --radius-sm: 10px;
   --radius-md: 16px;
